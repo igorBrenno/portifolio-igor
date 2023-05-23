@@ -42,7 +42,7 @@ const projectList = [
   },
   {
     title: "",
-    description:"",
+    description: "",
     url: "",
   },
   {
